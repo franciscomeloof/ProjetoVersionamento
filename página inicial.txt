@@ -10,3 +10,11 @@ Trabalhando no Código:
 git add .
 git commit -m "Descrição do commit"
 git push origin main
+
+- Fluxo de Trabalho com Repositório Remoto
+
+Trabalhando no Código:
+<git clone> - Baixa o projeto no seu computado.
+git add .
+git commit -m "Descrição do commit"
+git push origin main
