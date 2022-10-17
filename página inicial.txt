@@ -1,1 +1,12 @@
-Título da página
+- Fluxo de Trabalho Local
+
+Trabalhar no Código:
+git add .
+git commit -m "Descrição do commit"
+
+- Fluxo de Trabalho com Repositório Remoto
+
+Trabalhando no Código:
+git add .
+git commit -m "Descrição do commit"
+git push origin main
