@@ -14,7 +14,7 @@ git push origin main
 - Fluxo de Trabalho com Repositório Remoto em Casa
 
 Trabalhando no Código:
-<git clone> - Baixa o projeto no seu computado.
+git clone - Baixa o projeto no seu computado.
 git add .
 git commit -m "Descrição do commit"
 git push origin main
