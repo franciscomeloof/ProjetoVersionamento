@@ -1,1 +1,4 @@
 Esta é a página de login
+
+*Obs: Ao tentar upar as alterações de uma outra branch para o git hub, deve-se atentar para o comando:
+git push origin + nome da branch em uso e que receberá as alterações.
